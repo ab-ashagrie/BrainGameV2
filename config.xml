@@ -17,7 +17,6 @@
       Abel
   </author>
   <icon src = "icon.png"/>
-  <plugin name="cordova-plugin-splashscreen" source="npm" />
   <splash platform="android" qualifier="port-ldpi" src="res/ldpi/screen-ldpi-portrait.png" />
   <splash platform="android" qualifier="port-mdpi" src="res/mdpi/screen-mdpi-portrait.png" />
   <splash platform="android" qualifier="port-hdpi" src="res/hdpi/screen-hdpi-portrait.png" />
